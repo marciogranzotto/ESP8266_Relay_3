@@ -14,7 +14,7 @@ esphome:
 
 wifi:
   ssid: ${ss_id}
-  password: ${password}
+  password: ${pass}
   manual_ip:
     static_ip: ${ip_address}
     gateway: 10.1.30.1
