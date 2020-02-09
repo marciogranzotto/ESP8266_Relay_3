@@ -3,7 +3,7 @@
 - Abra https://easyeda.com/editor
 - Open...
 - EasyEDA
-- Escolher arquivos .json
+- Escolher arquivos .json aqui: https://github.com/marciogranzotto/ESP8266_Relay_3/tree/master/Project_Copy%20of%20ESP8266-%20WIFI%20RELAY%20MODULE%20with%203%2010A%20Relays_20200209213653
 
 # ESP8266_Relay_3
 Design Files for Relay Module
