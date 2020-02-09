@@ -1,3 +1,10 @@
+## Como importar os arquivos no EASYEda:
+
+- Abra https://easyeda.com/editor
+- Open...
+- EasyEDA
+- Escolher arquivos .json
+
 # ESP8266_Relay_3
 Design Files for Relay Module
 
