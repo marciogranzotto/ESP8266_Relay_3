@@ -1,8 +1,9 @@
 ## Como importar os arquivos no EASYEda:
 
 - Abra https://easyeda.com/editor
-- Open...
-- EasyEDA
+- No meu superior escolha Open > EasyEDA...
+
+![Image](Images/easy_eda.png)
 - Escolher arquivos .json aqui: https://github.com/marciogranzotto/ESP8266_Relay_3/tree/master/Project_Copy%20of%20ESP8266-%20WIFI%20RELAY%20MODULE%20with%203%2010A%20Relays_20200209213653
 
 # ESP8266_Relay_3
